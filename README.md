@@ -1,8 +1,5 @@
 Hi, I'm Zakir Hussain 👋
-Cybersecurity | Programming | Tech Enthusiast
-
-I'm a Computer Science student from Badin, Sindh driven by curiosity, discipline, and a desire to understand systems from the inside out.
-Currently exploring Object-Oriented Programming (OOP) and Data Communication, I approach technology not just as code, but as a craft that shapes clarity and resilience.
+Programmer | Tech Enthusiast
 
 🧠 What I'm Learning
 
